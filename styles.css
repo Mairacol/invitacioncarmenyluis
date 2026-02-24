@@ -44,7 +44,7 @@ strong {
 /* ===== CARD ===== */
 
 .card {
-    background: url("/assets/fondo.png") center/cover no-repeat;
+    background: url("assets/fondo.png") center/cover no-repeat;
     width: 100%;
     max-width: 900px;
     padding: 60px 70px;
