@@ -44,7 +44,7 @@ strong {
 /* ===== CARD ===== */
 
 .card {
-    background: url("/assets/ChatGPT\ Image\ 24\ feb\ 2026\,\ 06_38_14\ p.m..png") center/cover no-repeat;
+    background: url("/assets/fondo.png") center/cover no-repeat;
     width: 100%;
     max-width: 900px;
     padding: 60px 70px;
